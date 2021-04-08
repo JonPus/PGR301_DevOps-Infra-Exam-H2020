@@ -2,6 +2,8 @@
 
 `Eksamen i PGR301 DevOps i skyen, kandidatnummer:	10007`
 
+## Exam Grade: A
+
 Denne repositoryen er koblet sammen med min Github repository [JonPus/PGR301-DevOps-Exam-H2020](https://github.com/JonPus/PGR301-DevOps-Exam-H2020)
 
 ### Google Cloud
